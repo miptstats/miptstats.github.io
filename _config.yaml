@@ -1,0 +1,14 @@
+# Site settings
+title: Физтех.Статистика
+email: mipt.stats@yandex.ru
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: ""
+url: "https://mipt-stats.gitlab.io/" # change this to the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+# Make sure to exclude 'vendor' from the build 
+exclude: [vendor, "Gemfile", "Gemfile.lock", ".idea"]
+
+

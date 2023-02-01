@@ -1,0 +1,154 @@
+---
+layout: default
+---
+<!-- Section -->
+<section>
+    <header class="major">
+        <h2>Наша команда</h2>
+    </header>
+    <div class="features">
+        
+        
+        <article>
+            <img class="image" src="{{ "/images/Volkov.png"| prepend: site.baseurl }}" alt="Никита Волков"/>
+            <div class="content">
+                <h3>Никита Волков</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Gracheva.jpg"| prepend: site.baseurl }}" alt="Анастасия Грачева"/>
+            <div class="content">
+                <h3>Анастасия Грачева</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Dakhova.jpg"| prepend: site.baseurl }}" alt="Елизавета Дахова"/>
+            <div class="content">
+                <h3>Елизавета Дахова</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Ivanin.jpg"| prepend: site.baseurl }}" alt="Евгений Иванин"/>
+            <div class="content">
+                <h3>Евгений Иванин</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Ivanov.jpg"| prepend: site.baseurl }}" alt="Вячеслав Иванов"/>
+            <div class="content">
+                <h3>Вячеслав Иванов</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Kalinichenko.png"| prepend: site.baseurl }}" alt="Ольга Калиниченко"/>
+            <div class="content">
+                <h3>Ольга Калиниченко</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Kirilenko.png"| prepend: site.baseurl }}" alt="Елена Кириленко"/>
+            <div class="content">
+                <h3>Елена Кириленко</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Kolodin.png"| prepend: site.baseurl }}" alt="Егор Колодин"/>
+            <div class="content">
+                <h3>Егор Колодин</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Krivoshapko.jpg"| prepend: site.baseurl }}" alt="Мария Кривошапко"/>
+            <div class="content">
+                <h3>Мария Кривошапко</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Kupriyanov.png"| prepend: site.baseurl }}" alt="Артем Куприянов"/>
+            <div class="content">
+                <h3>Артем Куприянов</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Lepehin.jpg"| prepend: site.baseurl }}" alt="Михаил Лепехин"/>
+            <div class="content">
+                <h3>Михаил Лепехин</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Loginov.jpg"| prepend: site.baseurl }}" alt="Роман Логинов"/>
+            <div class="content">
+                <h3>Роман Логинов</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Lunin.JPG"| prepend: site.baseurl }}" alt="Дмитрий Лунин"/>
+            <div class="content">
+                <h3>Дмитрий Лунин</h3>
+            </div>
+        </article>        
+        <article>
+            <img class="image" src="{{ "/images/Ozhereleva.jpg"| prepend: site.baseurl }}" alt="София Ожерельева"/>
+            <div class="content">
+                <h3>София Ожерельева</h3>
+            </div>
+        </article>
+        
+        
+<!--
+        <article>
+            <img class="image" src="{{ "/images/Никита.png"| prepend: site.baseurl }}" alt="Никита Волков"/>
+            <div class="content">
+                <h3>Никита Волков</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Даша.png"| prepend: site.baseurl }}" alt="Дарья Гусарова"/>
+            <div class="content">
+                <h3>Дарья Гусарова</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Надя.png"| prepend: site.baseurl }}" alt="Надежда Зуева"/>
+            <div class="content">
+                <h3>Надежда Зуева</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Оля.png"| prepend: site.baseurl }}" alt="Ольга Калиниченко"/>
+            <div class="content">
+                <h3>Ольга Калиниченко</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Лена.png"| prepend: site.baseurl }}" alt="Елена Кириленко"/>
+            <div class="content">
+                <h3>Елена Кириленко</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Артем.png"| prepend: site.baseurl }}" alt="Артем Куприянов"/>
+            <div class="content">
+                <h3>Артем Куприянов</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Настя.png"| prepend: site.baseurl }}" alt="Анастасия Ремизова"/>
+            <div class="content">
+                <h3>Анастасия Ремизова</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Адель.png"| prepend: site.baseurl }}" alt="Адель Томилова"/>
+            <div class="content">
+                <h3>Адель Томилова</h3>
+            </div>
+        </article>
+        <article>
+            <img class="image" src="{{ "/images/Кирилл.png"| prepend: site.baseurl }}" alt="Кирилл Шевкунов"/>
+            <div class="content">
+                <h3>Кирилл Шевкунов</h3>
+            </div>
+        </article> -->
+    </div>
+</section>

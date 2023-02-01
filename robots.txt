@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ds.pdf
+Disallow: /test.html
+Disallow: /test_notebook.html
+Disallow: /test_youtube.html
+Disallow: /login
+Disallow: /jekyll/update/*password*
+Disallow: /files/fbmf19_*
+Disallow: /files/fivt1819_*

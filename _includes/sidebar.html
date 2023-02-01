@@ -1,0 +1,66 @@
+<!-- Sidebar -->
+<div id="sidebar">
+    <div class="inner">
+
+
+
+        <!-- Menu -->
+        
+        <a href="/" style="text-decoration: none;"><img class="image" src="/images/logo_bottom.png" alt="Физтех.Статистика" height="230" border="0"/></a>
+        
+        <nav id="menu">
+            <header class="major">
+                <h2 style="margin-top:8px;">Меню</h2>
+            </header>
+            <ul>
+                <li><a href="{{ "/index.html" | prepend: site.baseurl }}">Главная</a></li>
+                <li><a href="{{ "/team.html" | prepend: site.baseurl }}">Команда</a></li>
+                <li>
+                    <span class="opener">Учебные курсы</span>
+                    <ul>
+                        <li><a href="/courses/ad_fivt.html">Введение в анализ данных</a></li>
+                        <li><a href="/courses/ds_fivt.html">DS-поток</a></li>
+                        <li><a href="/courses/ad_mipt.html">Phystech@DataScience</a></li>
+                        <li><a href="/courses/mathstat_bmhf.html">Семинары по математической статистике на ФБМФ, ФМХФ</a></li>
+                        <!-- {% for post in site.posts %}
+                            {% if post.password == false %}
+                                <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                            {% endif %}
+                        {% endfor %} -->
+                    </ul>
+                </li>
+                <li>
+                    <span class="opener">Видеолекции</span>
+                    <ul>
+                        <li><a href="/courses/python.html">Python для анализа данных</a></li>
+                        <li><a href="/courses/stat19.html">Лекции по статистике на DS-потоке</a></li>
+                        <!-- {% for post in site.posts %}
+                            {% if post.password == false %}
+                                <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+                            {% endif %}
+                        {% endfor %} -->
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+
+
+        <!-- Section -->
+        <section>
+            <header class="major">
+                <h3>Контакты</h3>
+            </header>
+
+            <ul class="contact">
+                <li class="fa-envelope-o">{{ site.email }}</li>
+                </li>
+            </ul>
+        </section>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <p class="copyright"> Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+        </footer>
+
+    </div>
+</div>
