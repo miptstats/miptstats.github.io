@@ -1,4 +1,3 @@
-# miptstats.github.io
+# mipt-stats
 
-привет
-
+Public site for mipt stats courses
