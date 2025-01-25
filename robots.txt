@@ -7,3 +7,9 @@ Disallow: /login
 Disallow: /jekyll/update/*password*
 Disallow: /files/fbmf19_*
 Disallow: /files/fivt1819_*
+Disallow: /courses/ad_fivt_.html
+Disallow: /courses/ad_fivt/*
+Disallow: /courses/ad_mipt_.html
+Disallow: /courses/ad_mipt/*
+Disallow: /courses/mathstat_bmhf_.html
+Disallow: /courses/mathstat_bmhf/*
